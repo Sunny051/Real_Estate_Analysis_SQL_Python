@@ -1,1 +1,1 @@
-# Real_Estate_Analysis_SQL_Python
+Analyze rentals data from Zillow from 2010 to 2017 
